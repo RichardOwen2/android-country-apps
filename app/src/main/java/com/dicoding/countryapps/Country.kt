@@ -11,4 +11,5 @@ data class Country(
     val detail: String,
     val place: String,
     val detailPhoto: String,
+    val stats: String,
 ) : Parcelable

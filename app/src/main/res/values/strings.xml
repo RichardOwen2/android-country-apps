@@ -1,10 +1,38 @@
 <resources>
     <string name="app_name">CountryApps</string>
-    <string name="country_example">Indonesia</string>
-    <string name="desc_example">Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya, keanekaragaman budaya, dan warisan sejarahnya.</string>
+
     <string name="about">about</string>
     <string name="developer_name">Richard Owen Hoan</string>
     <string name="developer_email">richardowen2411@gmail.com</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+            Standby time (LTE): up to 19 days\n
+            Talk time (3g/WCDMA): up to 26 hours\n
+            Internet use time (Wi-Fi): up to 13 hours\n
+            Internet use time (LTE): up to 13 hours\n
+            Video playback: up to 13 hours\n
+            Audio playback (via headset): up to 110 hours\n
+            Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="country_example">Indonesia</string>
+    <string name="desc_example">Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya, keanekaragaman budaya, dan warisan sejarahnya.</string>
+    <string name="stats_example">
+        Bahasa: Bahasa Indonesia&#10;
+        Luas Wilayah: Sekitar 1.904.569 kilometer persegi&#10;
+        Bentuk Pemerintahan: Republik&#10;
+        Agama Dominan: Islam&#10;
+        Makanan Terkenal: Nasi goreng, rendang, sate, mie goreng, gado-gado&#10;
+    </string>
+    <string name="detail_example">
+        Indonesia adalah negara kepulauan terbesar di dunia, terdiri dari lebih dari 17.000 pulau yang tersebar di antara dua samudra.&#10;
+        Ini adalah rumah bagi berbagai suku dan budaya yang beraneka ragam, dengan lebih dari 700 bahasa yang berbeda.&#10;
+        Negara ini juga memiliki sejarah panjang yang mencakup masa prasejarah, kerajaan Hindu-Buddha, hingga penjajahan Belanda.&#10;
+        Keindahan alam Indonesia luar biasa, termasuk gunung berapi yang aktif, hutan hujan tropis, dan terumbu karang yang menakjubkan di bawah air laut.&#10;
+    </string>
+    <string name="place_example">Bali, Jakarta, Borobudur, Taman Nasional Komodo</string>
+    <string name="deskripsi_negara">Deskripsi Negara</string>
+    <string name="status_negara">Status Negara</string>
+    <string name="tempat_wisata_terkenal">Tempat Wisata Terkenal</string>
+    <string name="gambarnegara">gambarNegara</string>
+    <string name="flag">flag</string>
 
     <string-array name="data_name">
         <item>Indonesia</item>
@@ -28,7 +56,7 @@
     <string-array name="data_photo">
         <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1920px-Flag_of_Indonesia.svg.png</item>
         <item>https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png</item>
-        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1920px-Flag_of_England.svg.png</item>
+        <item>https://asset-a.grid.id/crop/0x0:0x0/x/photo/2019/03/27/1607473002.jpg</item>
         <item>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png</item>
         <item>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png</item>
         <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png</item>
@@ -65,77 +93,77 @@
 
     <string-array name="data_detail">
         <item>
-            Indonesia adalah negara kepulauan terbesar di dunia, terdiri dari lebih dari 17.000 pulau yang tersebar di antara dua samudra.\n
-            Ini adalah rumah bagi berbagai suku dan budaya yang beraneka ragam, dengan lebih dari 700 bahasa yang berbeda.\n
-            Negara ini juga memiliki sejarah panjang yang mencakup masa prasejarah, kerajaan Hindu-Buddha, hingga penjajahan Belanda.\n
-            Keindahan alam Indonesia luar biasa, termasuk gunung berapi yang aktif, hutan hujan tropis, dan terumbu karang yang menakjubkan di bawah air laut.\n
+            Indonesia adalah negara kepulauan terbesar di dunia, terdiri dari lebih dari 17.000 pulau yang tersebar di antara dua samudra.&#10;
+            Ini adalah rumah bagi berbagai suku dan budaya yang beraneka ragam, dengan lebih dari 700 bahasa yang berbeda.&#10;
+            Negara ini juga memiliki sejarah panjang yang mencakup masa prasejarah, kerajaan Hindu-Buddha, hingga penjajahan Belanda.&#10;
+            Keindahan alam Indonesia luar biasa, termasuk gunung berapi yang aktif, hutan hujan tropis, dan terumbu karang yang menakjubkan di bawah air laut.&#10;
         </item>
         <item>
-            Amerika Serikat adalah negara beriklim sedang terbesar di dunia yang terdiri dari 50 negara bagian dengan budaya yang sangat beragam.\n
-            Negara ini memiliki sejarah panjang yang melibatkan Perang Kemerdekaan, pergerakan hak sipil, dan banyak lagi.\n
-            Tempat-tempat ikonik seperti Menara Eiffel di Paris, Capitol di Washington, dan Grand Canyon di Arizona semuanya bisa ditemukan di AS.\n
+            Amerika Serikat adalah negara beriklim sedang terbesar di dunia yang terdiri dari 50 negara bagian dengan budaya yang sangat beragam.&#10;
+            Negara ini memiliki sejarah panjang yang melibatkan Perang Kemerdekaan, pergerakan hak sipil, dan banyak lagi.&#10;
+            Tempat-tempat ikonik seperti Menara Eiffel di Paris, Capitol di Washington, dan Grand Canyon di Arizona semuanya bisa ditemukan di AS.&#10;
         </item>
         <item>
-            Inggris adalah salah satu negara yang berada di Britania Raya dengan sejarah yang kaya.\n
-            Ini adalah tempat kelahiran bahasa Inggris, salah satu sastra terbesar di dunia, dengan penulis-penulis seperti William Shakespeare.\n
-            Negara ini juga dikenal dengan istana kerajaan, seperti Buckingham Palace, dan kota-kota sejarah seperti London.\n
+            Inggris adalah salah satu negara yang berada di Britania Raya dengan sejarah yang kaya.&#10;
+            Ini adalah tempat kelahiran bahasa Inggris, salah satu sastra terbesar di dunia, dengan penulis-penulis seperti William Shakespeare.&#10;
+            Negara ini juga dikenal dengan istana kerajaan, seperti Buckingham Palace, dan kota-kota sejarah seperti London.&#10;
         </item>
         <item>
-            Prancis adalah negara yang terkenal dengan mode, seni, dan masakan yang lezat.\n
-            Paris, ibu kotanya, dikenal sebagai Kota Cahaya dan rumah bagi berbagai museum, seperti Louvre dan Musée d Orsay.\n
-            Negara ini juga terkenal dengan anggurnya yang lezat dan kota-kota indah seperti Lyon dan Marseille.\n
+            Prancis adalah negara yang terkenal dengan mode, seni, dan masakan yang lezat.&#10;
+            Paris, ibu kotanya, dikenal sebagai Kota Cahaya dan rumah bagi berbagai museum, seperti Louvre dan Musée d Orsay.&#10;
+            Negara ini juga terkenal dengan anggurnya yang lezat dan kota-kota indah seperti Lyon dan Marseille.&#10;
         </item>
         <item>
-            Jepang adalah negara yang berlimpah dengan budaya yang kaya dan teknologi modern.\n
-            Ini adalah tempat lahirnya sushi, samurai, dan banyak seni tradisional seperti ikebana dan origami.\n
-            Jepang juga memiliki keindahan alam yang menakjubkan, termasuk Gunung Fuji dan taman-taman yang indah di Kyoto.\n
+            Jepang adalah negara yang berlimpah dengan budaya yang kaya dan teknologi modern.&#10;
+            Ini adalah tempat lahirnya sushi, samurai, dan banyak seni tradisional seperti ikebana dan origami.&#10;
+            Jepang juga memiliki keindahan alam yang menakjubkan, termasuk Gunung Fuji dan taman-taman yang indah di Kyoto.&#10;
         </item>
         <item>
-            Australia adalah negara benua yang terkenal dengan keindahan alamnya.\n
-            Pantai-pantai yang luas, gurun-gurun yang luas, dan hutan hujan tropis adalah ciri khas negara ini.\n
-            Australia juga terkenal dengan satwa liar yang unik, seperti kanguru dan koala.\n
+            Australia adalah negara benua yang terkenal dengan keindahan alamnya.&#10;
+            Pantai-pantai yang luas, gurun-gurun yang luas, dan hutan hujan tropis adalah ciri khas negara ini.&#10;
+            Australia juga terkenal dengan satwa liar yang unik, seperti kanguru dan koala.&#10;
         </item>
         <item>
-            Italia adalah negara yang terkenal dengan seni, sejarah, dan kulinernya yang lezat.\n
-            Negara ini memiliki sejarah kuno yang kaya, dengan kota-kota seperti Roma yang penuh dengan peninggalan Romawi.\n
-            Italia juga terkenal dengan pasta, pizza, dan gelato yang lezat.\n
+            Italia adalah negara yang terkenal dengan seni, sejarah, dan kulinernya yang lezat.&#10;
+            Negara ini memiliki sejarah kuno yang kaya, dengan kota-kota seperti Roma yang penuh dengan peninggalan Romawi.&#10;
+            Italia juga terkenal dengan pasta, pizza, dan gelato yang lezat.&#10;
         </item>
         <item>
-            Kanada adalah negara terluas kedua di dunia dengan keindahan alamnya.\n
-            Pegunungan Rocky, danau-danau besar, dan hutan yang luas adalah bagian dari lanskap Kanada.\n
-            Kota-kota seperti Toronto dan Vancouver menawarkan budaya yang beragam dan makanan internasional yang lezat.\n
+            Kanada adalah negara terluas kedua di dunia dengan keindahan alamnya.&#10;
+            Pegunungan Rocky, danau-danau besar, dan hutan yang luas adalah bagian dari lanskap Kanada.&#10;
+            Kota-kota seperti Toronto dan Vancouver menawarkan budaya yang beragam dan makanan internasional yang lezat.&#10;
         </item>
         <item>
-            Spanyol adalah negara di Eropa Selatan yang terkenal dengan budaya, tarian, dan makanannya yang meriah.\n
-            Negara ini memiliki festival-festival yang meriah seperti La Tomatina dan Feria de Abril, serta keindahan arsitektur seperti Alhambra di Granada.\n
+            Spanyol adalah negara di Eropa Selatan yang terkenal dengan budaya, tarian, dan makanannya yang meriah.&#10;
+            Negara ini memiliki festival-festival yang meriah seperti La Tomatina dan Feria de Abril, serta keindahan arsitektur seperti Alhambra di Granada.&#10;
         </item>
         <item>
-            Jerman adalah negara yang terkenal dengan sejarahnya yang kaya, teknologi canggih, dan bir terbaik di dunia.\n
-            Negara ini memiliki kastil-kastil abad pertengahan yang indah dan sejarah budaya yang dalam.\n
+            Jerman adalah negara yang terkenal dengan sejarahnya yang kaya, teknologi canggih, dan bir terbaik di dunia.&#10;
+            Negara ini memiliki kastil-kastil abad pertengahan yang indah dan sejarah budaya yang dalam.&#10;
         </item>
         <item>
-            Cina adalah negara terbesar di dunia dengan sejarah yang kaya dan budaya yang beragam.\n
-            Ini adalah tempat lahirnya beberapa agama dunia, dengan sejarah yang kaya dalam seni, filsafat, dan arsitektur.\n
+            Cina adalah negara terbesar di dunia dengan sejarah yang kaya dan budaya yang beragam.&#10;
+            Ini adalah tempat lahirnya beberapa agama dunia, dengan sejarah yang kaya dalam seni, filsafat, dan arsitektur.&#10;
         </item>
         <item>
-            India adalah negara yang beragam budaya, agama, dan geografi.\n
-            Ini adalah tempat lahir beberapa agama dunia, dengan sejarah yang kaya dalam seni, filosofi, dan arsitektur.\n
+            India adalah negara yang beragam budaya, agama, dan geografi.&#10;
+            Ini adalah tempat lahir beberapa agama dunia, dengan sejarah yang kaya dalam seni, filosofi, dan arsitektur.&#10;
         </item>
         <item>
-            Rusia adalah negara terluas di dunia dengan budaya yang unik dan sejarah yang kuat.\n
-            Ini adalah tempat lahirnya beberapa komposer terkenal seperti Tchaikovsky dan Stravinsky.\n
+            Rusia adalah negara terluas di dunia dengan budaya yang unik dan sejarah yang kuat.&#10;
+            Ini adalah tempat lahirnya beberapa komposer terkenal seperti Tchaikovsky dan Stravinsky.&#10;
         </item>
         <item>
-            Brasil adalah negara terbesar di Amerika Selatan yang terkenal dengan karneval, pantai, dan hutan hujan Amazon.\n
-            Ini adalah tempat lahir samba dan capoeira, serta rumah bagi beberapa keindahan alam paling spektakuler di dunia.\n
+            Brasil adalah negara terbesar di Amerika Selatan yang terkenal dengan karneval, pantai, dan hutan hujan Amazon.&#10;
+            Ini adalah tempat lahir samba dan capoeira, serta rumah bagi beberapa keindahan alam paling spektakuler di dunia.&#10;
         </item>
         <item>
-            Mesir adalah negara bersejarah yang terkenal dengan piramida, sungai Nil, dan budaya kuno.\n
-            Ini adalah tempat kelahiran peradaban Mesir kuno, dengan peninggalan yang mengesankan seperti piramida Giza.\n
+            Mesir adalah negara bersejarah yang terkenal dengan piramida, sungai Nil, dan budaya kuno.&#10;
+            Ini adalah tempat kelahiran peradaban Mesir kuno, dengan peninggalan yang mengesankan seperti piramida Giza.&#10;
         </item>
         <item>
-            Argentina adalah negara di Amerika Selatan yang terkenal dengan tango, daging panggang, dan pemandangan alam yang menakjubkan.\n
-            Ini adalah negara yang kaya akan keindahan alam, termasuk Pegunungan Andes, dan Iguazu Falls.\n
+            Argentina adalah negara di Amerika Selatan yang terkenal dengan tango, daging panggang, dan pemandangan alam yang menakjubkan.&#10;
+            Ini adalah negara yang kaya akan keindahan alam, termasuk Pegunungan Andes, dan Iguazu Falls.&#10;
         </item>
     </string-array>
 
@@ -175,5 +203,120 @@
         <item>https://id.shiftcities.org/sites/default/files/styles/16_9_extra_large/public/2021-12/Brazil%20small.png?itok=oSESnnvl</item>
         <item>https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQlnSW93fsZIeRg-v3ouLdYjuNo_s0vlFugu0BVD56wWCSqrQeD75iqpRyBQp9F07Wn3unC1BzYsVqU-bFO7ZDeAJiQvCiI</item>
         <item>https://www.travelandleisure.com/thmb/kF0i1otpS0za2tdsi2d5CNT5pp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/torres-del-paine-patagonia-PATAGONIA1216-dcdfa4dffdfe492e99aa7200865de3fe.jpg</item>
+    </string-array>
+
+    <string-array name="data_stats">
+        <item>
+            Bahasa: Bahasa Indonesia&#10;
+            Luas Wilayah: Sekitar 1.904.569 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik&#10;
+            Agama Dominan: Islam&#10;
+            Makanan Terkenal: Nasi goreng, rendang, sate, mie goreng, gado-gado&#10;
+        </item>
+        <item>
+            Bahasa: Inggris&#10;
+            Luas Wilayah: Sekitar 9.8 juta kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Federal&#10;
+            Agama Dominan: Kristen (Protestanisme, Katolik)&#10;
+            Makanan Terkenal: Burger, hot dog, pizza, fried chicken, apple pie&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Inggris&#10;
+            Luas Wilayah: Sekitar 242.900 kilometer persegi&#10;
+            Bentuk Pemerintahan: Monarki Konstitusional&#10;
+            Agama Dominan: Kristen (Anglikan)&#10;
+            Makanan Terkenal: Fish and chips,shepherd s pie, scones, pudding&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Prancis&#10;
+            Luas Wilayah: Sekitar 551.695 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik&#10;
+            Agama Dominan: Sekuler (Katolik, Islam, Protestanisme)&#10;
+            Makanan Terkenal: Croissant, escargot, baguette, ratatouille&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Jepang&#10;
+            Luas Wilayah: Sekitar 377.975 kilometer persegi&#10;
+            Bentuk Pemerintahan: Monarki Konstitusional&#10;
+            Agama Dominan: Shintoisme, Buddhisme&#10;
+            Makanan Terkenal: Sushi, ramen, tempura, sashimi, matcha&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Inggris&#10;
+            Luas Wilayah: Sekitar 7.692.024 kilometer persegi&#10;
+            Bentuk Pemerintahan: Monarki Konstitusional&#10;
+            Agama Dominan: Kekristenan (Katolik, Anglikan)&#10;
+            Makanan Terkenal: Tim Tam, Vegemite, meat pie, seafood&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Italia&#10;
+            Luas Wilayah: Sekitar 301.340 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik&#10;
+            Agama Dominan: Katolik&#10;
+            Makanan Terkenal: Pasta, pizza, gelato, espresso, risotto&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Inggris dan Perancis&#10;
+            Luas Wilayah: Sekitar 9.984.670 kilometer persegi&#10;
+            Bentuk Pemerintahan: Monarki Konstitusional&#10;
+            Agama Dominan: Kekristenan (Katolik, Protestan)&#10;
+            Makanan Terkenal: Poutine, maple syrup, butter tarts, Nanaimo bar&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Spanyol&#10;
+            Luas Wilayah: Sekitar 505.992 kilometer persegi&#10;
+            Bentuk Pemerintahan: Monarki Konstitusional&#10;
+            Agama Dominan: Katolik&#10;
+            Makanan Terkenal: Paella, tapas, churros, jamón ibérico, gazpacho&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Jerman&#10;
+            Luas Wilayah: Sekitar 357.022 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Federal&#10;
+            Agama Dominan: Kekristenan (Katolik, Protestan)&#10;
+            Makanan Terkenal: Bratwurst, sauerkraut, pretzel, schnitzel, beer&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Mandarin (Tionghoa)&#10;
+            Luas Wilayah: Sekitar 9.596.961 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Rakyat&#10;
+            Agama Dominan: Buddhisme, Taoisme, Agama-agama Tradisional Tiongkok&#10;
+            Makanan Terkenal: Kung Pao chicken, dim sum, Peking duck, dumpling&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Hindi (Bahasa Inggris juga umum)&#10;
+            Luas Wilayah: Sekitar 3.287.263 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Federal&#10;
+            Agama Dominan: Hinduisme, Islam, Kekristenan&#10;
+            Makanan Terkenal: Biryani, naan, samosa, masala chai, tandoori&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Rusia&#10;
+            Luas Wilayah: Sekitar 17.1 juta kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Federal&#10;
+            Agama Dominan: Kekristenan Ortodoks&#10;
+            Makanan Terkenal: Borscht, pelmeni, blini, kaviar, vodka&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Portugis&#10;
+            Luas Wilayah: Sekitar 8.515.767 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Federal&#10;
+            Agama Dominan: Katolik, Protestanisme&#10;
+            Makanan Terkenal: Feijoada, acarajé, churrasco (barbekyu), açaí&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Arab&#10;
+            Luas Wilayah: Sekitar 1.001.449 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik&#10;
+            Agama Dominan: Islam (Mayoritas Sunni)&#10;
+            Makanan Terkenal: Kebab, falafel, kushari, baklava, teh mint&#10;
+        </item>
+        <item>
+            Bahasa: Bahasa Spanyol&#10;
+            Luas Wilayah: Sekitar 2.780.400 kilometer persegi&#10;
+            Bentuk Pemerintahan: Republik Federal&#10;
+            Agama Dominan: Katolik&#10;
+            Makanan Terkenal: Asado ,empanadas, mate, milanesa&#10;
+        </item>
     </string-array>
 </resources>

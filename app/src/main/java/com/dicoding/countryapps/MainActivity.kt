@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
         val photo = resources.getStringArray(R.array.data_photo)
         val detailPhoto = resources.getStringArray(R.array.data_detail_photo)
         val place = resources.getStringArray(R.array.data_place)
+        val stats = resources.getStringArray(R.array.data_stats)
 
         val listCountry = ArrayList<Country>()
 
@@ -55,6 +56,7 @@ class MainActivity : AppCompatActivity() {
                 photo = photo[i],
                 detailPhoto = detailPhoto[i],
                 place = place[i],
+                stats = stats[i],
             ))
         }
 
