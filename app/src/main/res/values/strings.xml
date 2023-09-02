@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">CountryApps</string>
+    <string name="country_example">Indonesia</string>
+    <string name="desc_example">Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya, keanekaragaman budaya, dan warisan sejarahnya.</string>
+    <string name="about">about</string>
+    <string name="developer_name">Richard Owen Hoan</string>
+    <string name="developer_email">richardowen2411@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Indonesia</item>
+        <item>Amerika Serikat</item>
+        <item>Inggris</item>
+        <item>Prancis</item>
+        <item>Jepang</item>
+        <item>Australia</item>
+        <item>Italia</item>
+        <item>Kanada</item>
+        <item>Spanyol</item>
+        <item>Jerman</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Rusia</item>
+        <item>Brazil</item>
+        <item>Mesir</item>
+        <item>Argentina</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1920px-Flag_of_Indonesia.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1920px-Flag_of_England.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1920px-Flag_of_the_People%27s_Republic_of_China.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1920px-Flag_of_Russia.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1920px-Flag_of_Brazil.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1920px-Flag_of_Egypt.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya, keanekaragaman budaya, dan warisan sejarahnya.</item>
+        <item>Amerika Serikat adalah negara beriklim sedang terbesar di dunia dengan keragaman geografi yang luar biasa.</item>
+        <item>Inggris adalah salah satu negara yang berada di Britania Raya, terkenal dengan sejarahnya yang kaya</item>
+        <item>Prancis adalah negara yang terkenal dengan mode, seni, dan masakan yang lezat</item>
+        <item>Jepang adalah negara yang berlimpah dengan budaya yang kaya dan teknologi modern</item>
+        <item>Australia adalah negara benua yang terkenal dengan keindahan alamnya</item>
+        <item>Italia adalah negara yang terkenal dengan seni, sejarah, dan kulinernya yang lezat</item>
+        <item>Kanada adalah negara terluas kedua di dunia yang terkenal dengan keindahan alamnya</item>
+        <item>Spanyol adalah negara di Eropa Selatan yang terkenal dengan budaya, tarian, dan makanannya yang meriah.</item>
+        <item>Jerman adalah negara yang terkenal dengan sejarahnya yang kaya, teknologi canggih, dan bir terbaik di dunia</item>
+        <item>Cina adalah negara terbesar di dunia dengan sejarah yang kaya dan budaya yang beragam</item>
+        <item>India adalah negara yang beragam budaya, agama, dan geografi.</item>
+        <item>Rusia adalah negara terluas di dunia dengan budaya yang unik dan sejarah yang kuat</item>
+        <item>Brasil adalah negara terbesar di Amerika Selatan yang terkenal dengan karneval, pantai, dan hutan hujan Amazon.</item>
+        <item>Mesir adalah negara bersejarah yang terkenal dengan piramida, sungai Nil, dan budaya kuno.</item>
+        <item>Argentina adalah negara di Amerika Selatan yang terkenal dengan tango, daging panggang, dan pemandangan alam yang menakjubkan.</item>
+    </string-array>
+
+    <string-array name="data_detail">
+        <item>
+            Indonesia adalah negara kepulauan terbesar di dunia, terdiri dari lebih dari 17.000 pulau yang tersebar di antara dua samudra.\n
+            Ini adalah rumah bagi berbagai suku dan budaya yang beraneka ragam, dengan lebih dari 700 bahasa yang berbeda.\n
+            Negara ini juga memiliki sejarah panjang yang mencakup masa prasejarah, kerajaan Hindu-Buddha, hingga penjajahan Belanda.\n
+            Keindahan alam Indonesia luar biasa, termasuk gunung berapi yang aktif, hutan hujan tropis, dan terumbu karang yang menakjubkan di bawah air laut.\n
+        </item>
+        <item>
+            Amerika Serikat adalah negara beriklim sedang terbesar di dunia yang terdiri dari 50 negara bagian dengan budaya yang sangat beragam.\n
+            Negara ini memiliki sejarah panjang yang melibatkan Perang Kemerdekaan, pergerakan hak sipil, dan banyak lagi.\n
+            Tempat-tempat ikonik seperti Menara Eiffel di Paris, Capitol di Washington, dan Grand Canyon di Arizona semuanya bisa ditemukan di AS.\n
+        </item>
+        <item>
+            Inggris adalah salah satu negara yang berada di Britania Raya dengan sejarah yang kaya.\n
+            Ini adalah tempat kelahiran bahasa Inggris, salah satu sastra terbesar di dunia, dengan penulis-penulis seperti William Shakespeare.\n
+            Negara ini juga dikenal dengan istana kerajaan, seperti Buckingham Palace, dan kota-kota sejarah seperti London.\n
+        </item>
+        <item>
+            Prancis adalah negara yang terkenal dengan mode, seni, dan masakan yang lezat.\n
+            Paris, ibu kotanya, dikenal sebagai Kota Cahaya dan rumah bagi berbagai museum, seperti Louvre dan Musée d Orsay.\n
+            Negara ini juga terkenal dengan anggurnya yang lezat dan kota-kota indah seperti Lyon dan Marseille.\n
+        </item>
+        <item>
+            Jepang adalah negara yang berlimpah dengan budaya yang kaya dan teknologi modern.\n
+            Ini adalah tempat lahirnya sushi, samurai, dan banyak seni tradisional seperti ikebana dan origami.\n
+            Jepang juga memiliki keindahan alam yang menakjubkan, termasuk Gunung Fuji dan taman-taman yang indah di Kyoto.\n
+        </item>
+        <item>
+            Australia adalah negara benua yang terkenal dengan keindahan alamnya.\n
+            Pantai-pantai yang luas, gurun-gurun yang luas, dan hutan hujan tropis adalah ciri khas negara ini.\n
+            Australia juga terkenal dengan satwa liar yang unik, seperti kanguru dan koala.\n
+        </item>
+        <item>
+            Italia adalah negara yang terkenal dengan seni, sejarah, dan kulinernya yang lezat.\n
+            Negara ini memiliki sejarah kuno yang kaya, dengan kota-kota seperti Roma yang penuh dengan peninggalan Romawi.\n
+            Italia juga terkenal dengan pasta, pizza, dan gelato yang lezat.\n
+        </item>
+        <item>
+            Kanada adalah negara terluas kedua di dunia dengan keindahan alamnya.\n
+            Pegunungan Rocky, danau-danau besar, dan hutan yang luas adalah bagian dari lanskap Kanada.\n
+            Kota-kota seperti Toronto dan Vancouver menawarkan budaya yang beragam dan makanan internasional yang lezat.\n
+        </item>
+        <item>
+            Spanyol adalah negara di Eropa Selatan yang terkenal dengan budaya, tarian, dan makanannya yang meriah.\n
+            Negara ini memiliki festival-festival yang meriah seperti La Tomatina dan Feria de Abril, serta keindahan arsitektur seperti Alhambra di Granada.\n
+        </item>
+        <item>
+            Jerman adalah negara yang terkenal dengan sejarahnya yang kaya, teknologi canggih, dan bir terbaik di dunia.\n
+            Negara ini memiliki kastil-kastil abad pertengahan yang indah dan sejarah budaya yang dalam.\n
+        </item>
+        <item>
+            Cina adalah negara terbesar di dunia dengan sejarah yang kaya dan budaya yang beragam.\n
+            Ini adalah tempat lahirnya beberapa agama dunia, dengan sejarah yang kaya dalam seni, filsafat, dan arsitektur.\n
+        </item>
+        <item>
+            India adalah negara yang beragam budaya, agama, dan geografi.\n
+            Ini adalah tempat lahir beberapa agama dunia, dengan sejarah yang kaya dalam seni, filosofi, dan arsitektur.\n
+        </item>
+        <item>
+            Rusia adalah negara terluas di dunia dengan budaya yang unik dan sejarah yang kuat.\n
+            Ini adalah tempat lahirnya beberapa komposer terkenal seperti Tchaikovsky dan Stravinsky.\n
+        </item>
+        <item>
+            Brasil adalah negara terbesar di Amerika Selatan yang terkenal dengan karneval, pantai, dan hutan hujan Amazon.\n
+            Ini adalah tempat lahir samba dan capoeira, serta rumah bagi beberapa keindahan alam paling spektakuler di dunia.\n
+        </item>
+        <item>
+            Mesir adalah negara bersejarah yang terkenal dengan piramida, sungai Nil, dan budaya kuno.\n
+            Ini adalah tempat kelahiran peradaban Mesir kuno, dengan peninggalan yang mengesankan seperti piramida Giza.\n
+        </item>
+        <item>
+            Argentina adalah negara di Amerika Selatan yang terkenal dengan tango, daging panggang, dan pemandangan alam yang menakjubkan.\n
+            Ini adalah negara yang kaya akan keindahan alam, termasuk Pegunungan Andes, dan Iguazu Falls.\n
+        </item>
+    </string-array>
+
+    <string-array name="data_place">
+        <item>Bali, Jakarta, Borobudur, Taman Nasional Komodo</item>
+        <item>Menara Eiffel, Mona Lisa, Musée d\'Orsay, Katedral Notre-Dame</item>
+        <item>Menara London, Istana Buckingham, Stonehenge, The British Museum</item>
+        <item>Menara Eiffel, Mona Lisa, Musée d\'Orsay, Katedral Notre-Dame</item>
+        <item>Gunung Fuji, Kuil Kinkaku-ji, Tokyo Disneyland, Kyoto</item>
+        <item>Great Barrier Reef, Opera House Sydney, Ayers Rock, Taman Nasional Kakadu</item>
+        <item>Colosseum, Menara Pisa, Venesia, Vatikan</item>
+        <item>Danau Louise, Taman Nasional Banff, Toronto, Niagra Falls</item>
+        <item>Alhambra, Sagrada Familia, Taman Raja Alfonso XII, Madrid</item>
+        <item>Kastil Neuschwanstein, Brandenburg Gate, Kota Berlin, Schwarzwald (Hutan Hitam)</item>
+        <item>Tembok Besar, Kota Terlarang, Shanghai, Xi\'an</item>
+        <item>Taj Mahal, Varanasi, Goa, Himalaya</item>
+        <item>Kremlin Moskow, St. Petersburg, Danau Baikal, Trans-Siberian Railway</item>
+        <item>Pantai Copacabana, Hutan Amazon, Karneval Rio de Janeiro, Patung Kristus Penebus</item>
+        <item>Piramida Giza, Kuil Karnak, Luxor, Mesir Kuno</item>
+        <item>Buenos Aires, Patagonia, Iguazu Falls, Valle de la Luna</item>
+    </string-array>
+
+    <string-array name="data_detail_photo">
+        <item>https://lh5.googleusercontent.com/p/AF1QipOTovyZ8c8XQCuAbmPnP3iRQjMMVE6GHryITxRL=w548-h318-n-k-no</item>
+        <item>https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTBpA3fVCVkldnfMQQiRYVmph7niQD8nsc2IuoUQ7HlPuDIAC74w25oA5ljhzFASNrAwpVSM-pn0AyIwQXPsy1dAiTwmeDo</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipPwQgiJL1MYXggQHSnC1omIrQ6tbyFJ0XN3dWyA=w548-h318-n-k-no</item>
+        <item>https://lh6.googleusercontent.com/proxy/VSDBMeOlHFia1rVgjtrzdD42kC-HsycxOoAOJ_VCsdrf1eGyS8-438Q3d5ZNb2nr8rNFxLRn6010qqIibO88yCK8tSWGlI9c4nZ4SpC3OuHk_771MhIgkGMUPNdhXZ3ytMcfVc54246Fipdt8_4UvcyhIAcAkKg=w548-h318-n-k-no</item>
+        <item>https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTsLXR5_4AjcfWpNAPc5bn2tA6f2Qn52jFHx5NTqotPaERjGU6orrcQTtPV7s-SaGId23KVp4j0dJDjMAUh3TYelg8vz2DD</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipMlcvV_8I8_CxG9aM8sJjGFNMWqcm6kRgPYQigQ=w548-h318-n-k-no</item>
+        <item>https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/09/27/fakta-menarik-negara-italiajpg-20220927103935.jpg</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipOS62v2LVxV2yzpWxQrEpseUxIZKNkXOv1VEsNa=w548-h318-n-k-no</item>
+        <item>https://asset.kompas.com/crops/6NgomHBJbvhLRLmIBf71Q970LGQ=/0x0:996x664/750x500/data/photo/2020/03/24/5e7a1eb4314c8.jpg</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipOkBJCFelrfrrAn4gol-UuOyFmghhN7rgVNbaIv=w548-h318-n-k-no</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipO2jVel7jgdvYZVw0XF8Z7DGwnjGVz-MBobLppV=w548-h318-n-k-no</item>
+        <item>https://lh3.googleusercontent.com/proxy/mc77jok1KQ-JFg4gQAUeNwDKPEP2bNpHMXACDo8Vaz16n9ZJpDtEdpubLAJhxd-sMV1T2kCDixvas_eBsBRbXY6gVXaMFRjX5nqNwoM0YKIO3mCbWxHj1GI8wCyxqdxz9tOD_6kPtmreEJ0IEddhfL1yo1RbH7Y=w548-h318-n-k-no</item>
+        <item>https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSHUdhNexI2MlFhKkzZgXrhvJzd1L8R2q1H4iTyA8bEI_wuuORuIJ7LkC2CcVMnrhCrcPNct4bjURJHPd2Jaxsj4eIJdrUo</item>
+        <item>https://id.shiftcities.org/sites/default/files/styles/16_9_extra_large/public/2021-12/Brazil%20small.png?itok=oSESnnvl</item>
+        <item>https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQlnSW93fsZIeRg-v3ouLdYjuNo_s0vlFugu0BVD56wWCSqrQeD75iqpRyBQp9F07Wn3unC1BzYsVqU-bFO7ZDeAJiQvCiI</item>
+        <item>https://www.travelandleisure.com/thmb/kF0i1otpS0za2tdsi2d5CNT5pp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/torres-del-paine-patagonia-PATAGONIA1216-dcdfa4dffdfe492e99aa7200865de3fe.jpg</item>
+    </string-array>
+</resources>
