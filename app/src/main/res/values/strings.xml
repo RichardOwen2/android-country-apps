@@ -13,7 +13,7 @@
             Audio playback (via headset): up to 110 hours\n
             Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
     <string name="country_example">Indonesia</string>
-    <string name="desc_example">Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya, keanekaragaman budaya, dan warisan sejarahnya.</string>
+    <string name="desc_example">Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya.</string>
     <string name="stats_example">
         Bahasa: Bahasa Indonesia&#10;
         Luas Wilayah: Sekitar 1.904.569 kilometer persegi&#10;
@@ -73,7 +73,7 @@
     </string-array>
 
     <string-array name="data_description">
-        <item>Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya, keanekaragaman budaya, dan warisan sejarahnya.</item>
+        <item>Indonesia adalah negara kepulauan terbesar di dunia yang terkenal dengan keindahan alamnya.</item>
         <item>Amerika Serikat adalah negara beriklim sedang terbesar di dunia dengan keragaman geografi yang luar biasa.</item>
         <item>Inggris adalah salah satu negara yang berada di Britania Raya, terkenal dengan sejarahnya yang kaya</item>
         <item>Prancis adalah negara yang terkenal dengan mode, seni, dan masakan yang lezat</item>
@@ -88,7 +88,7 @@
         <item>Rusia adalah negara terluas di dunia dengan budaya yang unik dan sejarah yang kuat</item>
         <item>Brasil adalah negara terbesar di Amerika Selatan yang terkenal dengan karneval, pantai, dan hutan hujan Amazon.</item>
         <item>Mesir adalah negara bersejarah yang terkenal dengan piramida, sungai Nil, dan budaya kuno.</item>
-        <item>Argentina adalah negara di Amerika Selatan yang terkenal dengan tango, daging panggang, dan pemandangan alam yang menakjubkan.</item>
+        <item>Argentina adalah negara di Amerika Selatan yang terkenal dengan pemandangan alam yang menakjubkan.</item>
     </string-array>
 
     <string-array name="data_detail">

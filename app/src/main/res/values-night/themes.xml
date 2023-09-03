@@ -2,6 +2,15 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.CountryApps" parent="Theme.Material3.DayNight">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/night_primary_color</item>
+        <item name="colorPrimaryVariant">@color/night_primary_variant_color</item>
+        <item name="colorOnPrimary">@color/night_text_color_on_primary</item>
+        <item name="colorSecondary">@color/night_secondary_color</item>
+        <item name="colorSecondaryVariant">@color/night_secondary_variant_color</item>
+        <item name="colorOnSecondary">@color/night_text_color_on_secondary</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
     </style>
 </resources>
